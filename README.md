@@ -32,6 +32,9 @@ Prueba:
 
 En el diagrama de clase existen dos clases principales: PruebaContadorDeLineas y ContadorDeLineas. El método main esta en PruebaContadorDeLineas y en la clase ContadorDeLineas contine dos métodos: contarLineas, la cual realiza la validación del archivo y el conteo de líneas, y validarLineas, la cual confirma si está vacia o si es un comentario. 
 
+## Link a Github
+https://github.com/Hajaku12/ARSW-INTRODUCTION-TO-JAVA-MVN-AND-GIT-LOC-COUNTING.git
+
 ## Licencia
 Este proyecto esta autorizado bajo la licencia que se puede encontar en el archivo LICENSE.txt, en el se pueden encontrar los detalles
 
